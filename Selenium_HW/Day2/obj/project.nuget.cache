@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ihs3x+sqsLu/TbZo6DBvM6VJHJnfY95o5Bu3M/hZC5kfBE74nj8ci39eTl2WNCSWdWSfhumrhdJMesPp4e/SBw==",
+  "dgSpecHash": "gLSqNq8KzbjE3kD9xdQSnK1/93+4QQjvyWOsAE2xmuDsFvgMcsq++Mu3s+kEpXesxd0/yXvlNCcY1IpjSELisQ==",
   "success": true,
-  "projectFilePath": "D:\\c#coban\\aloalo1234\\Selenium_HW.csproj",
+  "projectFilePath": "D:\\gitRookies\\Selenium_HW\\Day2\\Selenium_HW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Anh\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",

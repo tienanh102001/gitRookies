@@ -1442,11 +1442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#coban\\aloalo1234\\Selenium_HW.csproj",
+      "projectUniqueName": "D:\\gitRookies\\Selenium_HW\\Day2\\Selenium_HW.csproj",
       "projectName": "Selenium_HW",
-      "projectPath": "D:\\c#coban\\aloalo1234\\Selenium_HW.csproj",
+      "projectPath": "D:\\gitRookies\\Selenium_HW\\Day2\\Selenium_HW.csproj",
       "packagesPath": "C:\\Users\\Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\c#coban\\aloalo1234\\obj\\",
+      "outputPath": "D:\\gitRookies\\Selenium_HW\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
