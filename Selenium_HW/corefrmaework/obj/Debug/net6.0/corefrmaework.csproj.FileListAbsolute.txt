@@ -1,0 +1,5 @@
+D:\gitRookies\Selenium_HW\corefrmaework\obj\Debug\net6.0\corefrmaework.csproj.AssemblyReference.cache
+D:\gitRookies\Selenium_HW\corefrmaework\obj\Debug\net6.0\corefrmaework.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitRookies\Selenium_HW\corefrmaework\obj\Debug\net6.0\corefrmaework.AssemblyInfoInputs.cache
+D:\gitRookies\Selenium_HW\corefrmaework\obj\Debug\net6.0\corefrmaework.AssemblyInfo.cs
+D:\gitRookies\Selenium_HW\corefrmaework\obj\Debug\net6.0\corefrmaework.csproj.CoreCompileInputs.cache
